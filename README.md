@@ -4,6 +4,7 @@ A simple color guessing game developed in HTML, CSS and JavaScript. At the start
 ## Feaures
 * Users can guess the color code by clicking on the colors displayed.
 * Users can change the difficulty level of the game.
+* Users can reset that game by generating new colors
 
 ## Design
 ![screenshot_2019-01-04 color game](https://user-images.githubusercontent.com/19616063/50699403-be9f9d80-1015-11e9-8ebc-99a686462a72.png)
