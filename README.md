@@ -1,5 +1,5 @@
 ## Summary
-A simple color guessing game developed in HTML, CSS and JavaScript. At the start of the game a random RGB color code is generated the user must guess the correct color that corresponds with the RGB color in order to win the game. There two difficulty levels: easy and hard mode.
+The Great RGB color games is a simple color guessing game developed in HTML, CSS and JavaScript. At the start of the game a random RGB color code is generated the user must guess the correct color that corresponds with the RGB color in order to win the game. There two difficulty levels: easy and hard mode.
 
 ## Features
 * Users can guess the color code by clicking on the colors displayed.
