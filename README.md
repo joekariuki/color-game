@@ -1,7 +1,7 @@
 ## Summary
 A simple color guessing game developed in HTML, CSS and JavaScript. At the start of the game a random RGB color code is generated the user must guess the correct color that corresponds with the RGB color in order to win the game. There two difficulty levels: easy and hard mode.
 
-## Feaures
+## Features
 * Users can guess the color code by clicking on the colors displayed.
 * Users can change the difficulty level of the game.
 * Users can reset that game by generating new colors
